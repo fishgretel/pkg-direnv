@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/License-MIT-707070.svg?style=flat-square)
 
 # :open_file_folder: [_direnv_](https://github.com/direnv/direnv)
-> Unclutter your `.profile`
+> direnv is an environment switcher for the shell. It knows how to hook into bash, zsh, tcsh and fish shell to load or unload environment variables depending on the current directory. This allows to have project-specific environment variables and not clutter the "~/.profile" file.
 
 Environment switcher plugin for [Wahoo][Wahoo] / [fish](fishshell.com).
 
